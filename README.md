@@ -11,3 +11,7 @@ Reaper is a simple open-source doxxer tool coded in Python
 3.find the folder 'dist'
 
 4.open reaper.exe
+
+
+
+WE ARE NOT RESPONSIBLE FOR WHAT YOU DO WITH REAPER, THIS IS FOR EDUCATIONAL PURPOSES ONLY!
